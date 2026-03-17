@@ -20,7 +20,7 @@ Estudante de **Engenharia de Computação** na PUCPR (Previsão de graduação: 
 ---
 
 ### 📂 Meus Projetos em Destaque
-- **[Jogo dos 15](link-do-seu-repo):** Um puzzle clássico desenvolvido inicialmente em C e portado para Python, com interface colorida e níveis de dificuldade.
+- **[Jogo dos 15](https://github.com/lftgro/jogo_dos_15):** Um puzzle clássico desenvolvido inicialmente em C e portado para Python, com interface colorida e níveis de dificuldade.
 - **Projetos de Engenharia:** Documentação e estudos relacionados ao subsistema de freios e dinâmica veicular.
 
 ---
