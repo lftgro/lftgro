@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou Luis Felipe Grochowicz! 👋
 
-<!--
-**lftgro/lftgro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Computação** na PUCPR (Previsão de graduação: 2029) e entusiasta de tecnologia, automação e sistemas eficientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🏎️ **Formula SAE:** Atuo como designer no subsistema de **freios** da equipe da PUCPR, aplicando engenharia na prática.
+- 🌎 **Experiência Internacional:** Realizei um intercâmbio acadêmico em Orem, Utah (2023-2024), onde aprimorei meu inglês e competências técnicas.
+- 🎓 **Certificações:** Possuo o *Skill Certificate in Computer Programming* pelo Utah State Board of Education.
+- 💡 **Interesses:** Inteligência Artificial, desenvolvimento de Home Lab servers e sistemas embarcados.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, C, C++
+- **Design & Engenharia:** SolidWorks (Modelagem 3D e simulação)
+- **Outros:** Git, Linux
+
+---
+
+### 📂 Meus Projetos em Destaque
+- **[Jogo dos 15](link-do-seu-repo):** Um puzzle clássico desenvolvido inicialmente em C e portado para Python, com interface colorida e níveis de dificuldade.
+- **Projetos de Engenharia:** Documentação e estudos relacionados ao subsistema de freios e dinâmica veicular.
+
+---
+
+### 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-felipe-grochowicz-75903a397)
+- 📧 luisfelipetgro@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lftgro&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
