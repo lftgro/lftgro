@@ -20,6 +20,7 @@ Estudante de **Engenharia de Computação** na PUCPR (Previsão de graduação: 
 ---
 
 ### 📂 Meus Projetos em Destaque
+- **[Collision Simulator](https://github.com/lftgro/Collision-Simulator):** Um simulador de colisão elástica em uma dimensão feito em Python, com o uso da biblioteca pygame para exibir a colisão, velocidades e massas. Massas e velocidades iniciais são definidas pelo usuário.
 - **[Jogo dos 15](https://github.com/lftgro/jogo_dos_15):** Um puzzle clássico desenvolvido inicialmente em C e portado para Python, com interface colorida e níveis de dificuldade.
 - **Projetos de Engenharia:** Documentação e estudos relacionados ao subsistema de freios e dinâmica veicular.
 
