@@ -5,7 +5,7 @@ Estudante de **Engenharia de Computação** na PUCPR (Previsão de graduação: 
 ---
 
 ### 🚀 Sobre Mim
-- 🏎️ **Formula SAE:** Atuo como designer no subsistema de **freios** da equipe da PUCPR, aplicando engenharia na prática.
+- 🏎️ **Formula SAE:** Atuo como projetista no subsistema de **freios** da equipe da PUCPR, aplicando engenharia na prática.
 - 🌎 **Experiência Internacional:** Realizei um intercâmbio acadêmico em Orem, Utah (2023-2024), onde aprimorei meu inglês e competências técnicas.
 - 🎓 **Certificações:** Possuo o *Skill Certificate in Computer Programming* pelo Utah State Board of Education.
 - 💡 **Interesses:** Inteligência Artificial, desenvolvimento de Home Lab servers e sistemas embarcados.
